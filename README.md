@@ -77,18 +77,17 @@ Key Highlights :
 | **RMSE**                            | 4500  |
 
 
-🌐 Deployment (Dockerized):
+🌐 Deployment (Dockerized) :
 
 1️⃣ Build Docker Image :
 
 docker build -t ml-insurance-app .
 
-2️⃣ Run Docker Container:
+2️⃣ Run Docker Container :
 
 docker run -d -p 5000:5000 ml-insurance-app
 
-3️⃣ Access the Application:
-http://localhost:5000
+3️⃣ Access the Application :http://localhost:5000
 
 
 🤝 Contribution :
@@ -102,7 +101,7 @@ Contributions are welcome! 🎉, If you'd like to improve this project:
 - Submit a pull request 🚀
 
 
-👨‍💻 Author
+👨‍💻 Author :
 
 Abinnu John Peter.P
 
